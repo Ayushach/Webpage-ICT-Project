@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+<link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+
+body{
+	margin:0;
+}
+
+header{
+	background:black;
+	color:white;
+	padding: 1px 0px 6px 4px;
+	height:40px;
+}
+
+header h1{
+	display:inline;
+	font-family: 'Lobster', cursive;
+	font-weight:400;
+	font-size:35px;
+	float:left;
+	margin-top:0px;
+	margin-right:10px;  
+}
+
+
+.homered{
+	background-color:red;
+	padding:30px 10px 16px 10px;
+}
+
+.dividor{
+	background-color:red;
+	height:5px;
+}
+.homeblack{
+	display:inline-block;
+	list-style-type: none;
+	color:white;
+	float:left;
+	margin-left:20px;
+	text-decoration:none;
+	font-size:30px;
+}
+.homeblack:hover{
+	color:Black;
+	background-color:White;
+	
+}
+
+.hmimage {
+	background-image: url(../../Document/background/Background.jpg);
+	width:100%;
+	height:590px;
+	background-repeat: no-repeat;
+	background-size:cover;
+	margin:0;
+	padding:0;
+}
+
+.homesub{
+	font-family: comic sans ms;
+	margin:0;
+	padding:9% 5% 0% 55%;
+	font-size:18px;
+	color:green;
+}
+
+.homedes{
+	font-family: comic sans ms;
+	margin:0.5% 0% 0% 55%;
+	font-size:75px;
+	background-color:rgba(0,0,0,0.4);
+	display:inline-block;
+}
+
+.homepho{
+	font-family:comic sans ms;
+	margin:0.5% 5% 0% 55%;
+	font-size:64px;
+	color:black;
+	display:inline-block;
+}
+
+.buttonhome{
+	margin:0% 0% 0% 55%;
+	background:tomato;
+	color:black;
+	border:none;
+	height:50px;
+	font-size:1.4em;
+	padding:0 1em;
+	cursor:pointer;
+	outline:none;
+	font-family: 'Raleway', sans-serif;
+	font-weight:900;
+}
+#Line{
+	border-Right: 3px solid Red;
+height: 46px;
+	
+}
+#Name{
+	font-family:Aerial bold;
+	margin:0.5% 5% 0% 70%;
+	font-size:64px;
+	display:inline-block;
+}

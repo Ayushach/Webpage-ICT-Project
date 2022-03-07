@@ -1,0 +1,62 @@
+body{
+	background-image:URL(../../Document/Background/Background.jpg);
+	background-attachment:fixed;
+	background-size:Cover;
+	
+	
+}
+#Navbar{
+	Width:1003px;
+	height:35px;
+	text-align:center;
+	background-color:white;
+	margin:auto;
+	Font-Size:30px;
+	Font-Family:Aerial;
+    border-bottom:3px solid;
+	
+	}
+	.Nlink{
+	text-decoration:none;
+	color:Black;
+	background-color:white;
+	color:black;
+	Display:Inline;
+	width:100%;
+	height:100%;
+	
+}
+.Nlink:hover{
+	color:White;
+	background-color:Black;
+}
+#Header{
+	width:1003px;
+	height:100px;
+	border-bottom:3px solid;
+	border-top:0px solid;
+	
+}
+#Header:hover{
+	content:url(../../Document/Welcome.image/Welcome.jpg);
+}
+#Footer{
+	width:1003px;
+	height:70px;
+	background-color: rgba(0,0,255,0.4);
+	border:3px solid;
+	font-size:25px;
+	font-family:Aerial;
+	margin:auto;
+	
+}	
+#Content{
+	Margin:auto;
+	width:1003px;
+	height:100%;
+	margin:auto;
+	border-right:3px solid;
+	border-left:3px solid;
+	border-top:3px solid;
+	background-color: rgba(128,128,128,0.4);
+}

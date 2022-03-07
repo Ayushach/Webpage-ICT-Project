@@ -1,0 +1,101 @@
+body{
+	background-image:URL(../../Document/Background/Background.jpg);
+	background-attachment:fixed;
+	background-size:Cover;
+	
+	
+}
+#Content{
+	Margin:auto;
+	width:1003px;
+	height:100%;
+	border-right:3px solid;
+	border-left:3px solid;
+	
+	background-color: rgba(128,128,128,0.4);
+}
+#Navbar{
+	Width:1003px;
+	height:35px;
+	text-align:center;
+	background-color:white;
+	margin:auto;
+	Font-Size:30px;
+	Font-Family:Aerial;
+    border-bottom:3px solid;
+	
+	}
+.Nlink{
+	text-decoration:none;
+	color:Black;
+	background-color:white;
+	color:black;
+	Display:Inline;
+	width:100%;
+	height:100%;
+	
+}
+.Nlink:hover{
+	color:White;
+	background-color:Black;
+}
+#Header{
+	width:1003px;
+	height:100%;
+	border-bottom:3px solid;
+	background-color:white;
+	border-top:3px solid;
+	
+}
+.Info{
+	font-family:Comic Sans MS;
+	font-size:20px;
+	
+}
+	
+
+#Footer{
+	width:1003px;
+	height:60px;
+	background-color: rgba(0,0,255,0.4);
+	border:3px solid;
+	font-size:25px;
+	font-family:Aerial;
+	margin:auto;
+	
+}
+#Maincontent{
+	width:1003px;
+	height:100%;
+}
+.M{
+	text-decoration:none;
+	color:black;
+}
+.paragraph{
+font-size:30px;
+font-family:;
+
+
+
+}
+#Name{
+	font-size:60px;
+	Text-align:Center;
+	background-color:White;
+	margin:auto;
+	color: Black;
+	font-family:comic sans ms;
+}
+.Last{
+	text-decoration:none;
+	color:black;
+	font-family:comic sans ms;
+	font-size:25px;
+}
+#Final{
+	text-decoration:none;
+	color:black;
+	font-family:comic sans ms;
+	font-size:25px
+}
